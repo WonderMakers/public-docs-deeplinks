@@ -138,7 +138,8 @@ protocol: snssdk1233://
 | ------ | ------ |
 | https://vm.tiktok.com/J2VgmA5/  | snssdk1233://user/profile/6753638085679907845 |
 | https://vm.tiktok.com/J2VG5cj/ | snssdk1233://vm.tiktok.com/video/6845595253706067206 |
-
+| https://www.tiktok.com/@miakhalifa/video/6878746770722049286?lang=ru | snssdk1233://vm.tiktok.com/video/6845595253706067206 |
+| https://www.tiktok.com/@miakhalifa?lang=ru | snssdk1233://user/profile/6753638085679907845 |
 
 Для определения deeplink необходимо загрузить страницу и найти meta теги, их может не быть
 ```
