@@ -27,11 +27,12 @@ protocol: Instagram://
 - https://www.instagram.com/p/B4D2Zn0BXj7/
 - https://instagram.com/tv/CDUYDsWpuMi/
 
+> https://api.instagram.com/oembed/?url=https://www.instagram.com/p/B4D2Zn0BXj7/
 
 | DESKTOP | DEEPLINK |
 | ------ | ------ |
 | https://instagram.com/profile | instagram://user?username=profile |
-| https://instagram.com/p/{post} | instagram://media?id={post} |
+| https://instagram.com/p/{post} | instagram://media?id={media-id} |
 | https://instagram.com/tv/{tv}  | instagram://media?id=/{tv} |
 
 
