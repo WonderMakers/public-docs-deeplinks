@@ -106,6 +106,7 @@ protocol: vnd.youtube://
 | ------ | ------ |
 | https://www.youtube.com/channel/UCDK5Vv_LpNFADYYMkD2P4yA  | vnd.youtube://www.youtube.com/channel/UCDK5Vv_LpNFADYYMkD2P4yA |
 | https://www.youtube.com/watch?v=dwkEYrE8hCI | vnd.youtube://www.youtube.com/watch?v=dwkEYrE8hCI |
+| https://youtu.be/dwkEYrE8hCI | vnd.youtube://www.youtube.com/watch?v=dwkEYrE8hCI |
 
 
 ## Twitter
